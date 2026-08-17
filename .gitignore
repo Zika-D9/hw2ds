@@ -1,0 +1,19 @@
+# Data
+archive/
+*.csv
+*.csv.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local config
+.claude/
